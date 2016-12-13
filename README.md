@@ -20,17 +20,19 @@ Majority of scripts require the use of phantomX_Inital.m as it initializes the P
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
-visualServo_Duckie.m
-	Sorts two ARTags to represent two different colored ducks.
-	Uses: 	
-	-	phantom_Inital.m
-	-	camera_Initial_Duckie.m
-	-	arDetect.m
-	-	locPos.m
-	-	smoothMotion.m
-	-	duckieDrop.m
-	-	duckieGrab.m
-	-	Home.m
+
+	visualServo_Duckie.m
+		Sorts two ARTags to represent two different colored ducks.
+		Uses: 	
+	
+		-	phantom_Inital.m
+		-	camera_Initial_Duckie.m
+		-	arDetect.m
+		-	locPos.m
+		-	smoothMotion.m
+		-	duckieDrop.m
+		-	duckieGrab.m
+		-	Home.m
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
